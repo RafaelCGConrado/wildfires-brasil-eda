@@ -3,4 +3,5 @@ Analyzing brazilian wildfires and drought data. For this project, we used the da
 
 ## Contributors
 Lelio Marcos Rangel Cunha
+
 Rafael Comitre Garcia Conrado
